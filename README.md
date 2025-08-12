@@ -24,7 +24,7 @@ The report includes the following key analysis areas:
 **🛠 Tools & Technologies:**
 
 *Power BI — Data modeling, visualization, and interactive reporting.
-*Excel — Data cleaning and preprocessing.
+  - Excel — Data cleaning and preprocessing.
 
 **📂 Repository Contents**
 
