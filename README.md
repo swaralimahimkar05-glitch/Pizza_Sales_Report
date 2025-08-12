@@ -30,7 +30,7 @@ The report includes the following key analysis areas:
 **📂 Repository Contents**
 
   - "Pizza_Sales.pbix" — Final Power BI report.
-  - "Overview.png" — Overview dashboard screenshot.
+  - "Insights.png — Insights dashboard screenshot.
   - "Pizza_Sales.xlsx" — Excel File.
 
 Author: Swarali Mahimkar
