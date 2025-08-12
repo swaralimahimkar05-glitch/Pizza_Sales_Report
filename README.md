@@ -22,9 +22,8 @@ The report includes the following key analysis areas:
 ➡️ Data Visualization: Interactive Dashboard with KPI, Trends, Slicer(Filter).
 
 **🛠 Tools & Technologies:**
-
--**Power BI** — Data modeling, visualization, and interactive reporting.
-- **Excel** — Data cleaning and preprocessing.
+ -**Power BI** — Data modeling, visualization, and interactive reporting.
+   - **Excel** — Data cleaning and preprocessing.
 
 **📂 Repository Contents**
 
