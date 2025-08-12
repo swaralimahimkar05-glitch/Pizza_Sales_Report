@@ -14,12 +14,12 @@ The report includes the following key analysis areas:
 
 **Steps Covered :**
 
-➡️ Data Extraction: Gathering Data from Kaggle
- ➡️ Data Exploration: Looking for patterns/trends, Missing and Duplicate values, Errors.
-  ➡️ Data Cleaning: Removing Blank, Duplicates, Error & Irrelevant Data.
-   ➡️ Data Understanding/Profiling: Data Modeling for Insights using Pivot.
-    ➡️ Data processing/manipulation: Creating New Attributes for better Data analysis.
-     ➡️ Data Visualization: Interactive Dashboard with KPI, Trends, Slicer(Filter).
+- ➡️ Data Extraction: Gathering Data from Kaggle
+- ➡️ Data Exploration: Looking for patterns/trends, Missing and Duplicate values, Errors.
+- ➡️ Data Cleaning: Removing Blank, Duplicates, Error & Irrelevant Data.
+- ➡️ Data Understanding/Profiling: Data Modeling for Insights using Pivot.
+- ➡️ Data processing/manipulation: Creating New Attributes for better Data analysis.
+- ➡️ Data Visualization: Interactive Dashboard with KPI, Trends, Slicer(Filter).
 
 **🛠 Tools & Technologies:**
 
