@@ -4,6 +4,7 @@ An interactive Power BI dashboard analyzing pizza sales performance. This report
 
 **📊 Dashboard Highlights**
 The report includes the following key analysis areas:
+
 **➡️Sales Overview:** Total Revenue, Total Orders, and Average Order Value, Sales by Day, Week, and Month
 
 **➡️Top-Selling Pizzas:** Best-performing pizza types and categories, Revenue by Pizza Size and Crust
